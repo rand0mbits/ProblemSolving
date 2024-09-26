@@ -2,6 +2,7 @@
 # Date: 2024-09-25
 # Description: Solution for LeetCode problem 27. Remove Element
 # URL: https://leetcode.com/problems/remove-element/
+
 from typing import List
 
 class Solution:
