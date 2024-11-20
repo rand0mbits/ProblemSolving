@@ -26,8 +26,6 @@ public class MargeSortedArray {
         }
 
         // copy all from temp array to nums1
-        for (int i = 0; i < totalLength; i++) {
-            nums1[i] = out[i];
-        }
+        System.arraycopy(out, 0, nums1, 0, totalLength);
     }
 }
