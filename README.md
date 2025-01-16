@@ -1,2 +1,2 @@
-# LeetCodeSolutions
-My solutions to LeetCode problems
+# ProblemSolving
+My solutions to LeetCode/HackerRank/etc problems
