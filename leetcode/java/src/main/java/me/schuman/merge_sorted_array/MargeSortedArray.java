@@ -1,4 +1,4 @@
-package me.schuman;
+package me.schuman.merge_sorted_array;
 
 public class MargeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
