@@ -8,7 +8,7 @@ A single string, **_s_**.
 
 **Constraints**
 
-- 1 <= length of s <= 4 * 10^5
+- 1 &le; length of s &le; 4 * 10<sup>5</sup>
 - **_s_** is composed of any of the following: English alphabetic letters, blank spaces, exclamation points (`!`), commas (`,`), question marks (`?`), periods (`.`), underscores (`_`), apostrophes (`'`), and at symbols (`@`).
 
 **Output Format**
