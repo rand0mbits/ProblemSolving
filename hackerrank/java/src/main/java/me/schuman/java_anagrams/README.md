@@ -1,3 +1,5 @@
+https://www.hackerrank.com/challenges/java-anagrams/problem
+
 Two strings, **_a_** and **_b_**, are called anagrams if they contain all the same characters in the same frequencies. For this challenge, the test is not case-sensitive. For example, the anagrams of `CAT` are `CAT`, `ACT`, `tac`, `TCA`, `aTC`, and `CtA`.
 
 **Function Description**
@@ -21,7 +23,7 @@ The second line contains a string **_b_**.
 
 **Constraints**
 
-- 1 <= length(a), length(b) <= 50
+- **1 &le; _length(a), length(b)_ &le; 50**
 - Strings **_a_** and **_b_** consist of English alphabetic characters.
 - The comparison should NOT be case sensitive.
 
