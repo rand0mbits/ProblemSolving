@@ -1,3 +1,5 @@
+https://www.hackerrank.com/challenges/java-string-compare/problem
+
 We define the following terms:
 
 - Lexicographical Order, also known as alphabetic or dictionary order, orders characters as follows:
@@ -30,7 +32,7 @@ The second line contains an integer denoting _**k**_.
 
 **Constraints**
 
-- 1 <= |s| <= 1000
+- **1 &le; |s| &le; 1000**
 - **_s_** consists of English alphabetic letters only (i.e., `[a-zA-Z]`).
 
 **Sample Input 0**
