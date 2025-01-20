@@ -1,3 +1,5 @@
+https://www.hackerrank.com/challenges/java-primality-test/problem?isFullScreen=true
+
 A prime number is a natural number greater than **1** whose only positive divisors are **1** and itself. For example, the first six prime numbers are **2, 3, 5, 7, 11,** and **13**.
 
 Given a large integer, **_n_**, use the Java BigInteger class' [isProbablePrime](https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html#isProbablePrime%28int%29) method to determine and print whether it's `prime` or `not prime`.
